@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4479.2783mm"
+   height="2408.959mm"
+   viewBox="0 0 4479.2783 2408.959"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="blueprint_track_without_car.svg"
+   inkscape:export-filename="/home/spmaster/ros2_ws_2303/src/f1_12th_simulator_g00/worlds/blueprint_track_without_car.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.04375"
+     inkscape:cx="8798.6491"
+     inkscape:cy="5019.8435"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4645"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2000"
+     inkscape:window-height="1472"
+     inkscape:window-x="48"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="3936.3424,598.74844"
+       orientation="1,0"
+       id="guide4561"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3297.9407,598.74844"
+       orientation="0,1"
+       id="guide4565"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1698.8122,1333.5533)">
+    <g
+       id="g4645">
+      <rect
+         y="-1330.0255"
+         x="-1695.2844"
+         height="2398.7998"
+         width="4472.2227"
+         id="rect3715"
+         style="fill:none;stroke:#000000;stroke-width:7.05555534;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4563"
+         d="M 275.07649,-122.07862 H -1090.0848 l 2.1382,598.73588"
+         style="fill:none;stroke:#000000;stroke-width:7.05555534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4563-5"
+         d="M 1638.0995,-720.81451 H 272.93829 l 2.1382,598.73589"
+         style="fill:none;stroke:#000000;stroke-width:7.05555534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4563-3"
+         d="M 925.73986,476.65726 H -439.42139 l 2.1382,598.73584"
+         style="fill:none;stroke:#000000;stroke-width:7.05555534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4563-3-5"
+         d="M 2231.0838,-122.0786 H 923.60166 l 2.1382,598.73586"
+         style="fill:none;stroke:#000000;stroke-width:7.05555534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
