@@ -8,13 +8,6 @@ This project was develop with resources available form:
 
 Josh Newans (https://github.com/joshnewans)
 
-```
-@inproceedings{okelly2020f1tenth,
-  title={F1TENTH: An Open-source Evaluation Environment for Continuous Control and Reinforcement Learning},
-  author={O’Kelly, Matthew and Zheng, Hongrui and Karthik, Dhruv and Mangharam, Rahul},
-  booktitle={NeurIPS 2019 Competition and Demonstration Track},
-  pages={77--89},
-  year={2020},
-  organization={PMLR}
-}
-```
+And the work done by:
+
+M. O’Kelly, H. Zheng, D. Karthik, and R. Mangharam, “F1tenth: An open-source evaluation environment for continuous control and reinforcement learning,” in NeurIPS 2019 Competition and Demonstration Track. PMLR, 2020,pp. 77–89
