@@ -1,4 +1,4 @@
-## F1/12 Simulator
+## F1/12th Simulator
 
 This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
 
